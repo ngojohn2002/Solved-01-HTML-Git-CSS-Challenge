@@ -27,3 +27,8 @@ The following image shows the web application's appearance and functionality:
 
 ![image](https://github.com/ngojohn2002/Solved-01-HTML-Git-CSS-Challenge/assets/30459021/13d8f1aa-4827-4435-a56a-8e9ddf44dc90)
 
+##
+## Link
+Please click the link below to visit my deployed application:
+
+https://ngojohn2002.github.io/Solved-01-HTML-Git-CSS-Challenge
